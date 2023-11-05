@@ -1,2 +1,2 @@
 # Selenium-Automation-Java
-Let's automate with selenium with java.
+Let's automate with selenium and java.
